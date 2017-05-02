@@ -233,9 +233,13 @@ li {
 }
 .content .program-information__col1 {
 	float: left;
+	width: 42%;
+	margin: 0 4%;
 }
 .content .program-information__col2 {
 	float: right;
+	width: 42%;
+	margin: 0 4%;
 }
 .content .content__target {
 	margin: 0 auto 50px;
@@ -291,9 +295,13 @@ li {
 }
 .content .form-training__col1 {
 	float: left;
+	width: 42%;
+	margin: 0 4%;
 }
 .content .form-training__col2 {
 	float: right;
+	width: 42%;
+	margin: 0 4%;
 }
 
 .content .content__advant {
